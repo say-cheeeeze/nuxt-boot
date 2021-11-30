@@ -1,14 +1,15 @@
 <template>
   <div>
+	  <h1>login page</h1>
   </div>
 </template>
 
 <script>
 export default {
-  fetch() {
-    this.$router.push({
-      path : "/user/main"
-    });
-  }
+	data() {
+		return {
+		
+		}
+	}
 }
 </script>
