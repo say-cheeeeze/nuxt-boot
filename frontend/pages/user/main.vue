@@ -3,7 +3,7 @@
 	  <h1>user main</h1>
 	  <el-button @click="goLogin()">로그인</el-button>
 	  <el-button @click="goJoin()">회원가입</el-button>
-	  <el-button @click="goAbout()">소개화면으로</el-button>
+	  <el-button @click="goAbout()">소개화면</el-button>
   </div>
 </template>
 
